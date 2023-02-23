@@ -1,3 +1,5 @@
 second commit b
 commit main
 f1 change
+
+f1 change to make a conflict
